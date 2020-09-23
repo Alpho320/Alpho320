@@ -16,7 +16,7 @@
 <h4 align="center">💬 Contact Me!</h4>
 
 <p align="center">📷&nbsp;Instagram: <a href="https://instagram.com/alpho320" style="text-align:center">@alpho320</a></p>
-  <p align="center">🎙&nbsp;My Discord: **Alpho320#9202**</p>
+  <p align="center">🎙&nbsp;My Discord: <bold>Alpho320#9202</bold></p>
   <p align="center">📫&nbsp;Mail: <a href="mailto:alpho.320@yandex.com" style="text-align:center">alpho.320@yandex.com</p>
   <p align="center">🎮&nbsp;Steam: <a href="https://steamcommunity.com/id/alpho320" style="text-align:center">steamcommunity.com/id/alpho320</a></p>
   🐦&nbsp;Steam: [twitter.com/Alpho320](https://twitter.com/Alpho320)
