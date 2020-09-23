@@ -16,10 +16,10 @@
 <h4 align="center">💬 Contact Me!</h4>
 
 <p align="center"> 
-  <a href="http//www.google.com" style="text-align:center">Search</a>
-  📷&nbsp;Instagram: [instagram.com/alpho320](https://instagram.com/alpho320)<br>
+  
+  📷&nbsp;Instagram: <a href="https://instagram.com/alpho320" style="text-align:center">@alpho320</a><br>
   🎙&nbsp;My Discord: **Alpho320#9202**<br>
-  📫&nbsp;Mail: [alpho.320@yandex.com](mailto:alpho.320@yandex.com)<br>
+  📫&nbsp;Mail: <a href="mailto:alpho.320@yandex.com" style="text-align:center">alpho.320@yandex.com</a<br>
   🎮&nbsp;Steam: [steamcommunity.com/id/alpho320](https://steamcommunity.com/id/alpho320)<br>
   🐦&nbsp;Steam: [twitter.com/Alpho320](https://twitter.com/Alpho320)<br>
 </p>
