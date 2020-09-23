@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-🔭 Currently working on @FabulousProject
+  <p align="center">🔭 Currently working on <a href="https://github.com/FabulousProject" style="text-align:center">@FabulousProject</a></p>
 </p>
 
 <hr>
