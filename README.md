@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3 align="center">💬 Contact Me!</h4>
+<h3 align="center">💬 Contact Me!</h3>
 
 <p align="center">📷&nbsp;Instagram: <a href="https://instagram.com/alpho320" style="text-align:center">@alpho320</a></p>
   <p align="center">🎙&nbsp;My Discord: <bold>Alpho320#9202</bold></p>
