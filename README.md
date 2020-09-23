@@ -19,8 +19,7 @@
   <p align="center">🎙&nbsp;My Discord: <bold>Alpho320#9202</bold></p>
   <p align="center">📫&nbsp;Mail: <a href="mailto:alpho.320@yandex.com" style="text-align:center">alpho.320@yandex.com</p>
   <p align="center">🎮&nbsp;Steam: <a href="https://steamcommunity.com/id/alpho320" style="text-align:center">steamcommunity.com/id/alpho320</a></p>
-  🐦&nbsp;Steam: [twitter.com/Alpho320](https://twitter.com/Alpho320)
-
+  <p align="center">🐦&nbsp;Twitter: <a href="https://twitter.com/Alpho320" style="text-align:center">twitter.com/Alpho320</a></p>
 
 <hr>
 
