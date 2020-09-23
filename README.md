@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-🔭 Currently working on [@FabulousProject](https://github.com/FabulousProject)!<br>
-📫 My Discord nickname is <bold>LikableTester82#8840</bold>
+🔭 Currently working on @FabulousProject
 </p>
 
 <hr>
@@ -17,11 +16,11 @@
 <h4 align="center">💬 Contact Me!</h4>
 
 <p align="center"> 
-  📷&nbsp;&nbsp;Instagram: [instagram.com/alpho320](https://instagram.com/alpho320)<br>
-  🎙&nbsp;&nbsp;My Discord: **Alpho320#9202**<br>
-  📫&nbsp;&nbsp;Mail: [alpho.320@yandex.com](mailto:alpho.320@yandex.com)<br>
-  🎮&nbsp;&nbsp;Steam: [steamcommunity.com/id/alpho320](https://steamcommunity.com/id/alpho320)<br>
-  🐦&nbsp;&nbsp;Steam: [twitter.com/Alpho320](https://twitter.com/Alpho320)<br>
+  📷&nbsp;Instagram: [instagram.com/alpho320](https://instagram.com/alpho320)<br>
+  🎙&nbsp;My Discord: **Alpho320#9202**<br>
+  📫&nbsp;Mail: [alpho.320@yandex.com](mailto:alpho.320@yandex.com)<br>
+  🎮&nbsp;Steam: [steamcommunity.com/id/alpho320](https://steamcommunity.com/id/alpho320)<br>
+  🐦&nbsp;Steam: [twitter.com/Alpho320](https://twitter.com/Alpho320)<br>
 </p>
 
 <hr>
