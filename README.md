@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**Alpho320/Alpho320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1 align="center">Hi 👋, I'm LikableTester82</h1>
+<h3 align="center">I'm a student and a software developer from Turkey</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
