@@ -16,6 +16,7 @@
 <h4 align="center">💬 Contact Me!</h4>
 
 <p align="center"> 
+  <a href="http//www.google.com" style="text-align:center">Search</a>
   📷&nbsp;Instagram: [instagram.com/alpho320](https://instagram.com/alpho320)<br>
   🎙&nbsp;My Discord: **Alpho320#9202**<br>
   📫&nbsp;Mail: [alpho.320@yandex.com](mailto:alpho.320@yandex.com)<br>
