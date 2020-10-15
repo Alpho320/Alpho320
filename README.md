@@ -23,4 +23,4 @@
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpho320&count_private=true" alt="alpho320"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpho320&count_private=true&show-icons=true&theme=vue" alt="alpho320"/></p>
