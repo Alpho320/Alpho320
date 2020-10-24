@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=alpho320" alt="alpho320" />
   <img src="https://img.shields.io/github/followers/Alpho320" alt="alpho320" />
   <img src="https://img.shields.io/badge/favourite%20language-java-blue" alt="alpho320" />
-  <img src="http://hits.dwyl.com/Alpho320/Alpho320" alt="alpho320" />
+  <img src="http://hits.dwyl.com/Alpho320/Alpho320.svg" alt="alpho320" />
 </p>
 
 <p align="center">
