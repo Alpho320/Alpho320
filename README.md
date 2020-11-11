@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/540230118761824277/769232900196401152/Green_and_Blue_Stripes_Business_YouTube_Channel_Art.png">
-<h1 align="center">Hi 👋, I'm Cahit Şahin</h1>
+<h1 align="center">Hi 👋, I'm Cahit Şahin!</h1>
 <h3 align="center">A person who a junior developer and a student</h3>
 
 <p align="center"> 
