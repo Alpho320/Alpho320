@@ -16,7 +16,7 @@
 <h2 align="center">💬 Contact Me!</h2>
 
 <p align="center">📷&nbsp;Instagram: <a href="https://instagram.com/WeiTheDev" style="text-align:center">@WeiTheDev</a></p>
-  <p align="center">🎙&nbsp;My Discord: <bold>Wei#9202</bold></p>
+  <p align="center">🎙&nbsp;My Discord: <bold>wèi#9202</bold></p>
   <p align="center">📫&nbsp;Mail: <a href="mailto:wei2dev@yandex.com" style="text-align:center">alpho.320@yandex.com</a></p>
   <p align="center">🎮&nbsp;Steam: <a href="https://steamcommunity.com/id/WeiTheDev" style="text-align:center">steamcommunity.com/id/WeiTheDev</a></p>
   <p align="center">🐦&nbsp;Twitter: <a href="https://twitter.com/WeiTheDev" style="text-align:center">twitter.com/WeiTheDev</a></p>
