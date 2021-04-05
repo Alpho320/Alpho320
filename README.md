@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <p align="center">🔭 Currently working on <a href="https://github.com/FabulousProject" style="text-align:center">@FabulousProject</a>, <a href="https://github.com/HiluinDevelopment" style="text-align:center">@HiluinDevelopment</a>, <a href="https://github.com/MineCedia" style="text-align:center">@MineCedia</a> and <a href="https://github.com/TurkMCPE-Development" style="text-align:center">@TurkMCPE</a></p>
+  <p align="center">🔭 Currently working on <a href="https://github.com/FabulousProject" style="text-align:center">@FabulousProject</a>, <a href="https://github.com/HiluinDevelopment" style="text-align:center">@HiluinDevelopment</a> and <a href="https://github.com/TurkMCPE-Development" style="text-align:center">@TurkMCPE</a></p>
 </p>
 
 <hr>
