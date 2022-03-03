@@ -15,7 +15,6 @@
 
 <h2 align="center">💬 Contact Me!</h2>
 
-<p align="center">📷&nbsp;Instagram: <a href="https://instagram.com/cahitt.sahin" style="text-align:center">@cahitt.sahin</a></p>
   <p align="center">🎙&nbsp;My Discord: <bold>Alpho320#9202</bold></p>
   <p align="center">📫&nbsp;Mail: <a href="mailto:alpho.320@yandex.com" style="text-align:center">alpho.320@yandex.com</a></p>
   <p align="center">🎮&nbsp;Steam: <a href="https://steamcommunity.com/id/Alpho320" style="text-align:center">steamcommunity.com/id/Alpho320</a></p>
